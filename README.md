@@ -1,2 +1,2 @@
 # leaf-image-classification
-This is a leaf classification model trained on the VGG16 architecture.
+This is a leaf classification model trained on the VGG16 architecture, which is capable of identifying leaves belonging to five different classes: Ak, Ala_Idris, Buzgulu, Dimnit, and Nazli. The model takes an input image of a leaf and predicts which class it belongs to with a corresponding confidence score. This project aims to provide a tool for automated leaf classification, which can have applications in agriculture, environmental science, and other related fields.
